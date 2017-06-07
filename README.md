@@ -1,16 +1,6 @@
-Welcome to Spiff's Random Quote Generator!
+<a href="https://freecodecamp.com">freeCodeCamp</a> Intermediate Front End Development Project
+ 
+Project completed as part of the freeCodeCamp Front-End Curriculum. <br />
+Clicking on the "Show me a quote" button will randomly display a quote from my favorite comic book: Calvin & Hobbes.
 
-This is my first GitHub project.
-This quote generator will display famous quotes randomly at the click of a button.
-
-Phase 1:
-Impot the JS code to randomly display the quotes.
-
-Phase 2:
-Modify and updates the quotes in the JS array.
-
-Phase 3:
-Style the webpage.
-
-Phase 4:
-Export to Codepen and validate project in Free Code Camp.
+Check it out on CodePen <a href="https://codepen.io/usaspiff/full/PGgXwY/">here</a>.
